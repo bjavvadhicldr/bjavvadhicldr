@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+<<<<<<< HEAD
 
-Test
-Test1
-Test2
+No changes
+
+>>>>>>> 5d3f7965d3cd37086d9c5067af0551a472c0bf5d
 
 <!--
 **bjavvadhicldr/bjavvadhicldr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
